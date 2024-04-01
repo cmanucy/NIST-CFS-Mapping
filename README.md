@@ -5,7 +5,7 @@ What's different?
 
 I moved a lot of the 'reference standards' into their own columns (ISO 27000 yet to come).  
 
-I also took some other tools focused around NREC CIP mappings and included them as separate sheets in this Excel document.
+I also took some other tools focused around NERC CIP mappings and included them as separate sheets in this Excel document.
 
 What does it do?
 
